@@ -13,4 +13,5 @@ usethis::create_from_github(
 # (open eerst het project in RStudio)
 # ---------------------------------------------------------------
 usethis::use_git()      # zet Git aan voor dit project (RStudio herstart)
+
 usethis::use_github()   # maakt de repo aan op GitHub en uploadt alles
