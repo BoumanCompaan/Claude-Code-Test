@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__r__select_r_session",
+      "mcp__r__list_r_sessions",
+      "PowerShell(Rscript *)"
+    ]
+  }
+}
